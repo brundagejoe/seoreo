@@ -13,7 +13,7 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   const [searchParams] = useSearchParams();
-  const showAnnouncement = searchParams.get("announcement") === "true";
+  const showAnnouncement = searchParams.get("announcement") === "series-c";
   return (
     <div className="my-10 px-8 w-full flex flex-col items-center gap-y-16">
       <div>

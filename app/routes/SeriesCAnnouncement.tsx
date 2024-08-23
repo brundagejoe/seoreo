@@ -3,7 +3,7 @@ export default function SeriesCAnnouncement() {
     <div className="flex justify-center">
       <div className="max-w-[450px] text-gray-800 leading-[-0.4px] font-sans mb-10 px-8">
         <h1 className="font-black text-4xl">
-          SEOreo Raises Series C Fund of 25M Oreos to Fuel Next Wave of Snack
+          SEOreo Raises Series C Fund of 700+ Oreos to Fuel Next Wave of Snack
           Innovation
         </h1>
         <div className="flex flex-col gap-y-4 mt-8">
@@ -11,10 +11,10 @@ export default function SeriesCAnnouncement() {
             <strong>August 22, 2024 — </strong>The SEOreo Snack Fund, the
             world&apos;s only venture capital fund using Oreos as currency, is
             thrilled to announce the successful closing of its Series C funding
-            round, raising an impressive 25 million Oreos. This fresh influx of
-            sweet capital will be dedicated to fueling innovative snack
-            collection ideas for Neighbor, further solidifying our commitment to
-            supporting groundbreaking entrepreneurs in the snack industry.
+            round, raising an impressive 700+ Oreos. This fresh influx of sweet
+            capital will be dedicated to fueling innovative snack collection
+            ideas for Neighbor, further solidifying our commitment to supporting
+            groundbreaking entrepreneurs in the snack industry.
           </p>
           <p className="max-w-[450px] leading-6 text-gray-700">
             “We&apos;re beyond excited to see the continued belief in our unique
@@ -29,6 +29,15 @@ export default function SeriesCAnnouncement() {
             larger pool of Oreos, we are poised to invest in even more creative
             concepts that bring joy to snack lovers everywhere. Stay tuned as we
             continue to turn delicious dreams into reality, one Oreo at a time!
+          </p>
+          <p className="max-w-[450px] leading-6 text-gray-700">
+            As part of our commitment to snack innovation, we are excited to
+            fund a diverse range of delectable treats. From Dr Pepper Zero with
+            Coconut to Goldfish, Baja Blast, Lays BBQ Chips, Sour Patch Kids,
+            and a variety of Hostess snacks, we&apos;re investing in the snacks
+            that delight taste buds and redefine snack time for everyone. These
+            unique flavors and beloved classics are just a taste of the future
+            we&apos;re helping to create.
           </p>
         </div>
         <div className="flex flex-col gap-y-2">
