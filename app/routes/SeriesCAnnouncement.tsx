@@ -1,7 +1,7 @@
-export default function Route() {
+export default function SeriesCAnnouncement() {
   return (
     <div className="flex justify-center">
-      <div className="max-w-[450px] text-gray-800 leading-[-0.4px] font-sans my-10 px-8">
+      <div className="max-w-[450px] text-gray-800 leading-[-0.4px] font-sans mb-10 px-8">
         <h1 className="font-black text-4xl">
           SEOreo Raises Series C Fund of 25M Oreos to Fuel Next Wave of Snack
           Innovation
