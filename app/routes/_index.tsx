@@ -59,10 +59,10 @@ export default function Index() {
       )}
       <p className="mb-4 mt-[200px] text-[10px] text-gray-400">
         <strong>Section 1: Contribution Cap</strong> 1.1 To ensure equitable
-        distribution of ownership interests within the SEOreo Snack Fund (“the
-        Fund”), individual contributions are strictly capped at a maximum
-        threshold of 850,653 Oreos (<em>the Contribution Cap</em>). 1.2 The
-        Contribution Cap is implemented to prevent any single participant (
+        distribution of ownership interests within the SEOreo Snack Fund (
+        <em>the Fund</em>), individual contributions are strictly capped at a
+        maximum threshold of 850,653 Oreos (<em>the Contribution Cap</em>). 1.2
+        The Contribution Cap is implemented to prevent any single participant (
         <em>Partner</em>) from obtaining a disproportionate share of the Fund,
         thereby maintaining a balanced and fair investment structure. 1.3
         Contributions exceeding the Contribution Cap will be rejected or, if
