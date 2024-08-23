@@ -149,16 +149,16 @@ export default function Index() {
         rules may result in penalties, including but not limited to the loss of
         ownership interests, suspension of participation, or termination of the
         Partner&apos;s relationship with the Fund.{" "}
-        <strong>Section 11: Fund Management</strong>
-        11.1 The Fund shall be managed by a designated team of Fund Managers,
-        responsible for overseeing the day-to-day operations, including the
-        receipt and allocation of contributions, maintenance of the Oreo
-        Converter Tool, and enforcement of Fund rules. 11.2 Fund Managers shall
-        have the authority to make decisions on behalf of the Fund, subject to
-        the approval of Partners as required by the Fund&apos;s governing
-        documents. 11.3 The Fund reserves the right to amend its rules,
-        policies, or procedures at any time, with notice provided to Partners as
-        required by law or the Fund&apos;s governing documents.{" "}
+        <strong>Section 11: Fund Management</strong> 11.1 The Fund shall be
+        managed by a designated team of Fund Managers, responsible for
+        overseeing the day-to-day operations, including the receipt and
+        allocation of contributions, maintenance of the Oreo Converter Tool, and
+        enforcement of Fund rules. 11.2 Fund Managers shall have the authority
+        to make decisions on behalf of the Fund, subject to the approval of
+        Partners as required by the Fund&apos;s governing documents. 11.3 The
+        Fund reserves the right to amend its rules, policies, or procedures at
+        any time, with notice provided to Partners as required by law or the
+        Fund&apos;s governing documents.{" "}
         <strong>Section 12: Termination and Dissolution</strong> 12.1 The Fund
         may be terminated or dissolved upon the occurrence of certain events,
         including but not limited to a vote of the Partners, bankruptcy, or
